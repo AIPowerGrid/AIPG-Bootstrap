@@ -25,7 +25,7 @@
 5. **Run Your Wallet:**
    - You can now run your wallet.
    - Your wallet will benefit from a head start on blocks, and the synchronization process should be significantly faster.
-   - I your wallet is fully synched, than you can remove the `databackup` folder created earlier. (Dont delete your `wallet.dat` file by accident, that would suck.)
+   - Once your wallet is fully synched, then you can remove the `databackup` folder created earlier. (Dont delete your `wallet.dat` file by accident, that would suck.)
 
 
 ## Need more help?
