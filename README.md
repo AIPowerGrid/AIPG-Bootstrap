@@ -12,7 +12,7 @@
     **WARNING: Before proceeding to the next step, ensure that your wallet is closed.**
 
 3. **Getting the wallet ready for the bootstrap:**
-   - Open the `AIPG-Bootstrap-main` folder.
+   - Open the `AIPG-Bootstrap-*` folder.
    - Run `AIPG-folder-location.bat`, this will pop up the AIPG wallet folder location.
    - Create a folder named `databackup` inside the AIPG wallet folder location and move all files and folders (except `wallet.dat`) into it.
    - You should be left with just the databackup folder and wallet.dat file inside the AIPG folder.
