@@ -16,9 +16,9 @@
    - Run `AIPG-folder-location.bat`, this will pop up the AIPG wallet folder location.
    - Create a folder named `databackup` inside the AIPG wallet folder location and move all files and folders (except `wallet.dat`) into it.
    - You should be left with just the databackup folder and wallet.dat file inside the AIPG folder.
-   - Set aside the Meowcoin folder.
+   - Set aside the Aipg folder.
 
-4. **Extract `bootstrap.zip` to Meowcoin Folder:**
+4. **Extract `bootstrap.zip` to Aipg Folder:**
    - In the `AIPG-Bootstrap-main` folder, double click on `bootstrap.zip`.
    - Copy the contents to the Aipg folder (not in the backup folder).
 
