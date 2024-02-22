@@ -19,7 +19,7 @@
    - Set aside the Aipg folder.
 
 4. **Extract `bootstrap.zip` to Aipg Folder:**
-   - In the `AIPG-Bootstrap-main` folder, double click on `bootstrap.zip`.
+   - In the `AIPG-Bootstrap-*` folder, double click on `bootstrap.zip`.
    - Copy the contents to the Aipg folder (not in the backup folder).
 
 5. **Run Your Wallet:**
